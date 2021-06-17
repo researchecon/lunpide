@@ -7,7 +7,7 @@ minimal: true
 mathjax: true
 
 navigation:
-  - {title: "lunpide.pdf", title: "CV", icon: home}
+  - {file: "lunpide.pdf", title: "CV", icon: home}
   - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/"}
   - {title: Feed, icon: rss, url: "/feed.xml"}
 
