@@ -18,8 +18,8 @@ show_sidebar: false
 
 navigation:
   - {title: CV, file: "lunpide.pdf"}
-  - {title: Research, url: "research.xml"}
-  - {title: Teaching, url: "teaching.xml"}
+  - {title: Research, url: "research.xtml"}
+  - {title: Teaching, url: "teaching.xtml"}
  
  #{title: Feed, icon: rss, url: "/feed.xml"}
 
