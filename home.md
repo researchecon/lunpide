@@ -4,7 +4,7 @@ title: ""
 ---
 
 
-<img src="img/photo.png" class="img-responsive" alt=""> </div>
+<img src="img/photo.PNG" class="img-responsive" alt=""> </div>
 
 
 
