@@ -4,10 +4,7 @@ title: ""
 ---
 
 <img src="https://researchecon.github.io/lunpide/pide.jpg" width="350" height="333">
-#hp  {
-float: left;    
- margin: 0 15px 0 0;
-}
+
 
 
 
