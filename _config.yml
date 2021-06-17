@@ -7,7 +7,7 @@ minimal: true
 mathjax: true
 
 navigation:
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
+  - {title: "lunpide.pdf", title: "CV", icon: home}
   - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/"}
   - {title: Feed, icon: rss, url: "/feed.xml"}
 
