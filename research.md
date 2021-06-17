@@ -3,10 +3,10 @@ layout: page
 title: ""
 ---
 
-Link to <a href="https://scholar.google.com/citations?user=i74iQN8AAAAJ"> google scholar 
+Link to <a href="https://scholar.google.com/citations?user=i74iQN8AAAAJ"> google scholar </a>
 
 <ul>
-<li>The Food and Economic Crises: Impact on Food Security and Agriculture in Cambodia (2014), in Surviving the Global Financial and Economic Downturn: The Cambodian Experience, Hossein Jalilian, Sothorn Kem, Glenda Reyes, Kimsun Tong (eds.) (Singapore: Institute of Southeast Asian Studies). </li>
+<li>The Food and Economic Crises: Impact on Food Security and Agriculture in Cambodia (2014), in Surviving the Global Financial and Economic Downturn: The Cambodian Experience, Hossein Jalilian, Sothorn Kem, Glenda Reyes, Kimsun Tong (eds.) (Singapore: Institute of Southeast Asian Studies).  <a href= "https://bookshop.iseas.edu.sg/publication/1967"> [link] </a>
 
 <li> Irregular Migration from Cambodia: Characteristics, Challenges, and Regulatory Ap¬proach (2011), Philippine Journal of Development 38(70) 1-25, with Vutha Hing and Dalis Phan. <a href= "https://dirp4.pids.gov.ph/webportal/CDN/PUBLICATIONS/pidspjd11-cambodia.pdf"> [link] </a>
 
