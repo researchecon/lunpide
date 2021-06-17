@@ -1,10 +1,20 @@
 title: "Pide Lun"
 author: "Pide Lun"
+description: "University of Adelaide"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
 minimal: true
 mathjax: true
+
+# layout
+
+show_social: true
+show_excerpts: false
+show_frame: true
+show_sidebar: false
+
+# Menu
 
 navigation:
   - {file: "lunpide.pdf", title: "CV", icon: home}
