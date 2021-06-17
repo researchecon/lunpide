@@ -4,7 +4,7 @@ title: ""
 ---
 
 
-<img src="https://researchecon.github.io/lunpide/pide.jpg" width="500" height="333">
+<img src="https://researchecon.github.io/lunpide/pide.jpg" width="300" height="333">
 
 
 </p>
