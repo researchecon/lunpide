@@ -19,13 +19,13 @@ My PhD thesis tackles the issue of HIV/AIDS in sub-Saharan Africa, a region whic
 
 <b> Paper # 1: Population Diversity, Trust, and the Transmission of HIV/AIDS in Sub-Saharan Africa </b>  <br>
 
-The paper provide new evidence that population genetic diversity can mitigate the transmission of HIV in sub-Saharan Africa. Using a difference-in-differences strategy, we exploit the fact that trade may increase HIV incidence, and demonstrate that HIV transmits more easily in countries that are more genetically homogeneous. Genetically homogeneous societies tend to be culturally homogeneous and more trusting. Thus, our results can be explained by (1) genetic and cultural homophily, as people's innate preference for genetically and culturally similar individuals as partners makes forming relationships easier in genetically and culturally homogeneous societies and (2) trust, as it may reduce one's perceived risk of contracting HIV. Our work highlights the possibility that beyond socio-economic factors, there could exist long-term structural determinants of HIV/AIDS in sub-Saharan Africa that cannot be easily influenced by policies.
+The paper provides new evidence that population genetic diversity can mitigate the transmission of HIV in sub-Saharan Africa. Using a difference-in-differences strategy, we exploit the fact that trade may increase HIV incidence, and demonstrate that HIV transmits more easily in countries that are more genetically homogeneous. Genetically homogeneous societies tend to be culturally homogeneous and more trusting. Thus, our results can be explained by (1) genetic and cultural homophily, as people's innate preference for genetically and culturally similar individuals as partners makes forming relationships easier in genetically and culturally homogeneous societies and (2) trust, as it may reduce one's perceived risk of contracting HIV. Our work highlights the possibility that beyond socio-economic factors, there could exist long-term structural determinants of HIV/AIDS in sub-Saharan Africa that cannot be easily influenced by policies.
 
 
 
 <b> Paper # 2: Are There Deep Determinants of HIV/AIDS in Sub-Saharan Africa? The Role of Geography and Slave Trade </b>  <br>
 
-We show that deep-rooted factors such as geography and history have the potential of explaining the spatial variation in HIV incidence across sub-Saharan Africa.
+The paper shows that deep-rooted factors such as geography and history have the potential of explaining the spatial variation in HIV incidence across sub-Saharan Africa.
 Speciffically, we find that terrain ruggedness, a measure of the uneven topography of an area, has a robust and statistically significant effect on HIV incidence, where
 more geographically rugged countries tend to have higher HIV incidences. We also observe that historical slave trade, which was prevalent in less rugged regions, could
 be the mechanism driving the link between greater ruggedness and higher HIV incidence, in that once slave trade is controlled for, ruggedness loses its statistical
