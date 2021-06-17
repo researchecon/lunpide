@@ -8,7 +8,7 @@ title: ""
 <br>
 <br>
 
-<p> School of Economics and Public Policy <br> Faculty of the Professions  <br> The University of Adelaide <br> Nexus 10, 10 Pulteney Street <br> Adelaide SA 5005 <br> Email: pide.lun@adelaide.edu.au </p>
+<p> School of Economics and Public Policy <br> Faculty of the Professions  <br> The University of Adelaide <br> Nexus 10, 10 Pulteney Street <br> Adelaide SA 5005 <br> Email: pide.lun[add]adelaide.edu.au </p>
 
 <br>
 <br>
