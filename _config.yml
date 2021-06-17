@@ -17,9 +17,9 @@ show_sidebar: false
 # Menu
 
 navigation:
-  - {title: "CV", url: "https://github.com/researchecon/lunpide/blob/7d9058886b9deaf6c489a2df385abbb1b311b48c/lunpide.pdf"}
+  - {title: CV, url: "https://github.com/researchecon/lunpide/blob/7d9058886b9deaf6c489a2df385abbb1b311b48c/lunpide.pdf"}
   - {title: Research, url: "/research.xml"}
-   - {title: Teaching, url: "/teaching.xml"}
+  - {title: Teaching, url: "/teaching.xml"}
  
  #{title: Feed, icon: rss, url: "/feed.xml"}
 
