@@ -15,7 +15,7 @@ Link to <a href="https://scholar.google.com/citations?user=i74iQN8AAAAJ"> google
 Other research reports
 
 <ul>
-<li> How Unequal Is Access to Opportunity in Cambodia? (2014), Cambodia Development Review 18(2) 6-11, with Vathana Roth. [link] </li>
+<li> How Unequal Is Access to Opportunity in Cambodia? (2014), Cambodia Development Review 18(2) 6-11, with Vathana Roth. [<a href= "https://cdri.org.kh/wp-content/uploads/cdr14-2e.pdf"> link] </li>
 
 <li> Analysis of the Cambodian State in the Context of Developmental State (2010), Cambo¬dia Development Review 14(1) 11-14, with Sivhuoch Ou. [link] </li>
 
