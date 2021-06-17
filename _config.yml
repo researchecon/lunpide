@@ -17,8 +17,8 @@ show_sidebar: false
 # Menu
 
 navigation:
-  - {file: "lunpide.pdf", title: "CV", icon: home}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/"}
+  - {file: "/lunpide.pdf", title: "CV", icon:}
+  - {title: Research, icon:, url: "/research.hml"}
   - {title: Feed, icon: rss, url: "/feed.xml"}
 
 remote_theme: niklasbuschmann/contrast
