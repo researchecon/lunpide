@@ -16,10 +16,8 @@ Link to <a href="https://scholar.google.com/citations?user=i74iQN8AAAAJ"> google
 
 </p>
   
-<li> How Unequal Is Access to Opportunity in Cambodia? (2014), Cambodia Development Review 18(2) 6-11, with Vathana Roth. <a href= "https://cdri.org.kh/wp-content/uploads/cdr14-2e.pdf"> [link] 
-
-
-
+<li> How Unequal Is Access to Opportunity in Cambodia? (2014), Cambodia Development Review 18(2) 6-11, with Vathana Roth. <a href= "https://cdri.org.kh/wp-content/uploads/cdr14-2e.pdf"> [link] </a>
+    
 <li> Health and Education in the Greater Mekong Sub-region: The Case of Cambodia (2015), CDRI Working Paper No. 105, with Vathana Roth. <a href= "https://cdri.org.kh/wp-content/uploads/gmsdan9b.pdf"> link  
   
 <li> The Role of Rural Credit During the Global Financial Crisis: Evidence From Nine Villages in Cambodia (2013), CDRI Working Paper No. 79. <a href= "https://cdri.org.kh/wp-content/uploads/wp79e.pdf"> [link]     
