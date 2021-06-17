@@ -3,7 +3,7 @@ layout: page
 title: ""
 ---
 
-<img align="right" src="https://researchecon.github.io/lunpide/pide.jpg" width="450" height="250">
+<img align="right" src="https://researchecon.github.io/lunpide/pide.jpg" width="300" height="200">
 
 <br>
 <br>
