@@ -3,10 +3,11 @@ layout: page
 title: ""
 ---
 
-<div style="clear: left;">
-<p style="float: left;"> <img src="https://researchecon.github.io/lunpide/pide.jpg" width="350" height="333"></p>
-    <p>Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text</p>
-</div>
+<img src="https://researchecon.github.io/lunpide/pide.jpg" width="350" height="333">
+#hp  {
+float: left;    
+ margin: 0 15px 0 0;
+}
 
 
 
