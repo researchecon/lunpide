@@ -19,7 +19,7 @@ Other research reports
 
 
 
-<li> Health and Education in the Greater Mekong Sub-region: The Case of Cambodia (2015), CDRI Working Paper No. 105, with Vathana Roth. <a href= "https://cdri.org.kh/wp-content/uploads/gmsdan9b.pdf"> [link]  </li>
+<li> Health and Education in the Greater Mekong Sub-region: The Case of Cambodia (2015), CDRI Working Paper No. 105, with Vathana Roth. <a href= "https://cdri.org.kh/wp-content/uploads/gmsdan9b.pdf"> link  </li>
   
 <li> The Role of Rural Credit During the Global Financial Crisis: Evidence From Nine Villages in Cambodia (2013), CDRI Working Paper No. 79. <a href= "https://cdri.org.kh/wp-content/uploads/wp79e.pdf"> [link]     </li>
  
