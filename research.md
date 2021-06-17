@@ -10,9 +10,9 @@ Link to <a href="https://scholar.google.com/citations?user=i74iQN8AAAAJ"> google
 
 <ul>
 
-<li> Population Diversity, Trust, and the Transmission of HIV/AIDS in Sub-Saharan Africa (with Nicholas Sim and Pham Anh)
+<li> Population Diversity, Trust, and the Transmission of HIV/AIDS in Sub-Saharan Africa (with Nicholas Sim and Pham Anh) (unde review)
 
-<li> Are There Deep Determinants of HIV/AIDS in Sub-Saharan Africa? The Role of Geography and Slave Trade (with Nicholas Sim)
+<li> Are There Deep Determinants of HIV/AIDS in Sub-Saharan Africa? The Role of Geography and Slave Trade (with Nicholas Sim) (under review)
 
 <p><b>International Publications</b></p>
   
