@@ -18,8 +18,10 @@ show_sidebar: false
 
 navigation:
   - {title: CV, file: "lunpide.pdf"}
-  - {title: Research, url: "research.xtml"}
-  - {title: Teaching, url: "https://github.com/researchecon/lunpide/blob/636b981666974725df280b6084e1fe4c264f8443/teaching.html"}
+  - {title: Research, file: "research.md"}
+  - {title: Teaching, file: "teaching.md"}
+  
+   
  
  #{title: Feed, icon: rss, url: "/feed.xml"}
 
