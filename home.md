@@ -6,12 +6,12 @@ title: ""
 <img align="left" src="https://researchecon.github.io/lunpide/pide.jpg" width="350" height="333">
 
 
-<p> School of Economics and Public Policy
-<p>  Faculty of the Professions 
-<p> The University of Adelaide 
-<p> Nexus 10, 10 Pulteney Street
-<p> Adelaide SA 5005
-<p> Email: pide.lun@adelaide.edu.au
+<p> School of Economics and Public Policy </p>
+<p>  Faculty of the Professions  </p>
+<p> The University of Adelaide </p>
+<p> Nexus 10, 10 Pulteney Street </p>
+<p> Adelaide SA 5005 </p>
+<p> Email: pide.lun@adelaide.edu.au </p>
 
 
 
