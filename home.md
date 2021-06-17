@@ -3,7 +3,7 @@ layout: page
 title: ""
 ---
 
-<div>
+<div style="clear: left;">
 <p style="float: left;"> <img src="https://researchecon.github.io/lunpide/pide.jpg" width="350" height="333" border="1px"></p>
     <p>Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text</p>
 </div>
