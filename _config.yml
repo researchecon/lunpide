@@ -17,6 +17,7 @@ show_sidebar: false
 # Menu
 
 navigation:
+  - {title: Home, file: "index.html"}
   - {title: CV, file: "cv.md"}
   - {title: Research, file: "research.md"}
   - {title: Teaching, file: "teaching.md"}
