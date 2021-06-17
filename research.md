@@ -20,15 +20,15 @@ Other research reports
 
 
 
-<li> Health and Education in the Greater Mekong Sub-region: The Case of Cambodia (2015), CDRI Working Paper No. 105, with Vathana Roth. <a href= "https://cdri.org.kh/wp-content/uploads/gmsdan9b.pdf"> [link]
+<li> Health and Education in the Greater Mekong Sub-region: The Case of Cambodia (2015), CDRI Working Paper No. 105, with Vathana Roth. <a href= "https://cdri.org.kh/wp-content/uploads/gmsdan9b.pdf"> [link]  </li>
   
-<li> The Role of Rural Credit During the Global Financial Crisis: Evidence From Nine Villages in Cambodia (2013), CDRI Working Paper No. 79. <a href= "https://cdri.org.kh/wp-content/uploads/wp79e.pdf"> [link]
+<li> The Role of Rural Credit During the Global Financial Crisis: Evidence From Nine Villages in Cambodia (2013), CDRI Working Paper No. 79. <a href= "https://cdri.org.kh/wp-content/uploads/wp79e.pdf"> [link]     </li>
  
-<li> Levels and Sources of Household Income in Rural Cambodia 2012 (2013), CDRI Working Paper No. 83, with Kimsun Tong and Bopharath Srey.  <a href= "https://cdri.org.kh/wp-content/uploads/wp83e.pdf"> [link]
+<li> Levels and Sources of Household Income in Rural Cambodia 2012 (2013), CDRI Working Paper No. 83, with Kimsun Tong and Bopharath Srey.  <a href= "https://cdri.org.kh/wp-content/uploads/wp83e.pdf"> [link]     </li>
   
-<li> A Baseline Survey of Sub-National Government: Towards a Better Understanding of Decentralisation and Deconcentration in Cambodia (2011), CDRI Special Report 12, with Sreang Chheat, Sedara Kim, Seiha Heng, and Sethea Sok. <a href= "https://cdri.org.kh/wp-content/uploads/sr12e.pdf"> [link]
+<li> A Baseline Survey of Sub-National Government: Towards a Better Understanding of Decentralisation and Deconcentration in Cambodia (2011), CDRI Special Report 12, with Sreang Chheat, Sedara Kim, Seiha Heng, and Sethea Sok. <a href= "https://cdri.org.kh/wp-content/uploads/sr12e.pdf"> [link]    </li>
   
- <li> Analysis of the Cambodian State in the Context of Developmental State (2010), Cambodia Development Review 14(1) 11-14, with Sivhuoch Ou. <a href= "https://cdri.org.kh/wp-content/uploads/cdr10-1e-1.pdf"> [link] 
+ <li> Analysis of the Cambodian State in the Context of Developmental State (2010), Cambodia Development Review 14(1) 11-14, with Sivhuoch Ou. <a href= "https://cdri.org.kh/wp-content/uploads/cdr10-1e-1.pdf"> [link]  </li>
   
     
-  </li>
+  </ul>
