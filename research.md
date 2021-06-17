@@ -11,7 +11,7 @@ Link to <a href="https://scholar.google.com/citations?user=i74iQN8AAAAJ"> google
 <li> Irregular Migration from Cambodia: Characteristics, Challenges, and Regulatory Ap¬proach (2011), Philippine Journal of Development 38(70) 1-25, with Vutha Hing and Dalis Phan. </li>
 
 
-Other research reports
+<p><b>Other research reports</b></p>
 
 
   
