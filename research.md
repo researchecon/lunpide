@@ -38,6 +38,12 @@ Link to <a href="https://scholar.google.com/citations?user=i74iQN8AAAAJ"> google
 <li> A Baseline Survey of Sub-National Government: Towards a Better Understanding of Decentralisation and Deconcentration in Cambodia (2011), CDRI Special Report 12, with Sreang Chheat, Sedara Kim, Seiha Heng, and Sethea Sok. <a href= "https://cdri.org.kh/wp-content/uploads/sr12e.pdf"> [link] </a>  
   
  <li> Analysis of the Cambodian State in the Context of Developmental State (2010), Cambodia Development Review 14(1) 11-14, with Sivhuoch Ou. <a href= "https://cdri.org.kh/wp-content/uploads/cdr10-1e-1.pdf"> [link] </a> 
+   
+ <i> Double Blow to the Poor: Cambodia’s Food Security in the Face of the Food and Economic Shocks (2009), Annual Development Review 2009-2010. Cambodia Development Resource Institute, with Jalilian Hossein and Reyes Glenda. <a href= "https://cdri.org.kh/wp-content/uploads/adr05e0910.pdf"> [link] </a> 
+
+   
+   
+   
  
 
     
