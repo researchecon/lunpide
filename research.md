@@ -39,7 +39,7 @@ Link to <a href="https://scholar.google.com/citations?user=i74iQN8AAAAJ"> google
   
  <li> Analysis of the Cambodian State in the Context of Developmental State (2010), Cambodia Development Review 14(1) 11-14, with Sivhuoch Ou. <a href= "https://cdri.org.kh/wp-content/uploads/cdr10-1e-1.pdf"> [link] </a> 
    
-<li> Labour migration situation and policy framework in Cambodia (2010), Annual Development Review 2010-2011. Cambodia Development Resource Institute, with Vutha Hing and Dalis Phan. <a href= "https://cdri.org.kh/publication-page-old/pub/adr/adr06e1011.pdf"> [link] </a> 
+<li> Labour Migration Situation and Policy Framework in Cambodia (2010), Annual Development Review 2010-2011. Cambodia Development Resource Institute, with Vutha Hing and Dalis Phan. <a href= "https://cdri.org.kh/publication-page-old/pub/adr/adr06e1011.pdf"> [link] </a> 
    
  <li> Double Blow to the Poor: Cambodia’s Food Security in the Face of the Food and Economic Shocks (2009), Annual Development Review 2009-2010. Cambodia Development Resource Institute, with Jalilian Hossein and Reyes Glenda. <a href= "https://cdri.org.kh/wp-content/uploads/adr05e0910.pdf"> [link] </a> 
    
