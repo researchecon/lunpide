@@ -18,7 +18,7 @@ title: ""
 <br>
 <br>
 
-I am currently a teaching assitant at <a href="https://economics.adelaide.edu.au/" > School of Economics and Public Policy, University of Adelaide</a>. I have been tutoring data analytics, econometrics and mathematical economics. I also held a position as a visiting lecturer at the same school. Before that, I used to work as an economics research fellow at <a href="https://www.cdri.org.kh/" > Cambodia Developpment Resource Institue </a>, which is an independent research think-tank based in Cambodia. My research interests are in the fields of economic development, applied econometrics and health economics.  
+I am currently a teaching assitant at <a href="https://economics.adelaide.edu.au/" > School of Economics and Public Policy, University of Adelaide</a>. I have been tutoring data analytics, econometrics and mathematical economics. I also held a position as a visiting lecturer at the same school. Before that, I used to work as an economics research fellow at <a href="https://www.cdri.org.kh/" > Cambodia Developpment Resource Institue</a>, which is an independent research think-tank based in Cambodia. My research interests are in the fields of economic development, applied econometrics and health economics.  
 
   
 My PhD thesis tackles the issue of HIV/AIDS in sub-Saharan Africa, a region which has the highest number of people living with HIV in the world.1 A broad research question this thesis aims to address is why the spatial distribution of HIV infections in sub-Saharan Africa is so uneven. I present new evidence suggesting that the differences in the spread of the HIV pandemic in different parts of sub-Saharan Africa have deep historical roots in culture, history and geography.
