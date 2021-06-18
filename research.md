@@ -18,16 +18,16 @@ Link to <a href="https://scholar.google.com/citations?user=i74iQN8AAAAJ"> google
   
 <li>The Food and Economic Crises: Impact on Food Security and Agriculture in Cambodia (2014), in Surviving the Global Financial and Economic Downturn: The Cambodian Experience, Hossein Jalilian, Sothorn Kem, Glenda Reyes, Kimsun Tong (eds.) (Singapore: Institute of Southeast Asian Studies).  <a href= "https://bookshop.iseas.edu.sg/publication/1967"> [link] </a>
 
-<li> Irregular Migration from Cambodia: Characteristics, Challenges, and Regulatory Ap¬proach (2011), Philippine Journal of Development 38(70) 1-25, with Vutha Hing and Dalis Phan. <a href= "https://dirp4.pids.gov.ph/webportal/CDN/PUBLICATIONS/pidspjd11-cambodia.pdf"> [link] </a>
+<li> Irregular Migration from Cambodia: Characteristics, Challenges, and Regulatory Approach (2011), Philippine Journal of Development 38(70) 1-25, with Vutha Hing and Dalis Phan. <a href= "https://dirp4.pids.gov.ph/webportal/CDN/PUBLICATIONS/pidspjd11-cambodia.pdf"> [link] </a>
 
 
 <p><b>Other research reports</b></p>
 
-
+<li> Health and Education in the Greater Mekong Sub-region: The Case of Cambodia (2015), CDRI Working Paper No. 105, with Vathana Roth. <a href= "https://cdri.org.kh/wp-content/uploads/gmsdan9b.pdf"> [link] </a>  
   
 <li> How Unequal Is Access to Opportunity in Cambodia? (2014), Cambodia Development Review 18(2) 6-11, with Vathana Roth. <a href= "https://cdri.org.kh/wp-content/uploads/cdr14-2e.pdf"> [link] </a>
-    
-<li> Health and Education in the Greater Mekong Sub-region: The Case of Cambodia (2015), CDRI Working Paper No. 105, with Vathana Roth. <a href= "https://cdri.org.kh/wp-content/uploads/gmsdan9b.pdf"> [link] </a>  
+  
+<li> The Impacts of Adult Migration on Children’s Well-being: The Case of Cambodia (2014). Phnom Penh, Cambodia Development Resource Institute, with Vutha Hing and Dalis Phan.
   
 <li> The Role of Rural Credit During the Global Financial Crisis: Evidence From Nine Villages in Cambodia (2013), CDRI Working Paper No. 79. <a href= "https://cdri.org.kh/wp-content/uploads/wp79e.pdf"> [link]  </a>   
  
@@ -39,6 +39,8 @@ Link to <a href="https://scholar.google.com/citations?user=i74iQN8AAAAJ"> google
   
  <li> Analysis of the Cambodian State in the Context of Developmental State (2010), Cambodia Development Review 14(1) 11-14, with Sivhuoch Ou. <a href= "https://cdri.org.kh/wp-content/uploads/cdr10-1e-1.pdf"> [link] </a> 
  
-   
+
+    
+
 
  
